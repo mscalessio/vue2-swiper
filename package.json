@@ -1,13 +1,13 @@
 {
   "name": "vue-2-swiper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple porting of the original Swiper Vue.js component, now compatible with version 2.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mscalessio/vue2-swiper.git"
   },
   "keywords": [
-    "Swiper",
+    "swiper",
     "vue"
   ],
   "author": "Alessio Masucci <msc.alessio@gmail.com> (https://github.com/mscalessio)",
