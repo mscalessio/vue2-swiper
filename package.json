@@ -6,6 +6,16 @@
     "type": "git",
     "url": "git+https://github.com/mscalessio/vue2-swiper.git"
   },
+  "keywords": [
+    "Swiper",
+    "vue"
+  ],
+  "author": "Alessio Masucci <msc.alessio@gmail.com> (https://github.com/mscalessio)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mscalessio/vue2-swiper/issues"
+  },
+  "homepage": "https://github.com/mscalessio/vue2-swiper#readme",
   "main": "dist/vue2-swiper.ssr.js",
   "browser": "dist/vue2-swiper.esm.js",
   "module": "dist/vue2-swiper.esm.js",
