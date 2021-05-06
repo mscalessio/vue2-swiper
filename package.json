@@ -1,5 +1,5 @@
 {
-  "name": "vue2-swiper",
+  "name": "vue-2-swiper",
   "version": "1.0.0",
   "description": "A simple porting of the original Swiper Vue.js component, now compatible with version 2.",
   "repository": {
@@ -32,7 +32,7 @@
     "build:ssr": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format cjs",
     "build:es": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format es",
     "build:unpkg": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format iife",
-    "prepublish": "npm run build"
+    "prepare": "npm run build"
   },
   "dependencies": {},
   "devDependencies": {
