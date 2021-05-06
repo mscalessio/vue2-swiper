@@ -60,8 +60,5 @@
   "peerDependencies": {
     "swiper": "^6.5.9",
     "vue": "^2.6.12"
-  },
-  "engines": {
-    "node": ">=12"
   }
 }
